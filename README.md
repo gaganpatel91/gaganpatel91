@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Hi 👋, I'm  Gagan Patidar<br>I’m a passionate full-stack web developer.<br>🔭 I’m currently learning and building projects using React.js, Node.js, Next.js, Django, Python, MongoDB, Express, <br>💼 Actively looking for internship opportunities to apply my skills in real-world projects.<br>🤝 I’m open to collaborate on full-stack web development projects.<br>📫 How to reach me  gaganpatidar9165@gmail.com<br><br>
+ Hi 👋, I'm  Gagan Patidar<br>👨‍💻 I’m a passionate full-stack web developer.<br>🔭 I’m currently learning and building projects using React.js, Node.js, Next.js, Django, Python, MongoDB, Express, <br>💼 Actively looking for internship opportunities to apply my skills in real-world projects.<br>🤝 I’m open to collaborate on full-stack web development projects.<br>📫 How to reach me  gaganpatidar9165@gmail.com<br><br>
 
 
 ## 🌐 Socials:
