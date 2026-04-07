@@ -1,5 +1,21 @@
 # 💫 About Me:
- Hi 👋, I'm  Gagan Patidar<br>👨‍💻 I’m a passionate full-stack web developer.<br>🔭 I’m currently learning and building projects using React.js, Node.js, Next.js, Django, Python, MongoDB, Express, <br>💼 Actively looking for internship opportunities to apply my skills in real-world projects.<br>🤝 I’m open to collaborate on full-stack web development projects.<br>📫 How to reach me  gaganpatidar9165@gmail.com<br><br>
+
+Hi 👋, I'm **Gagan Patidar**
+
+👨‍💻 I’m a passionate **Full-Stack Web Developer & Data Enthusiast**
+
+📊 I’m deeply interested in **Data Analytics & Data Science**, and I enjoy turning raw data into meaningful insights using tools like **Excel, Power BI, Python, and SQL**
+
+🔭 I’m currently learning and building projects using **React.js, Node.js, Next.js, Django, Python, MongoDB, and Express**, along with exploring **data visualization and machine learning concepts**
+
+📈 I love working on **real-world data projects**, dashboards, and analytics solutions that help in better decision-making
+
+💼 Actively looking for **internship opportunities** in **Full-Stack Development / Data Analytics / Data Science**
+
+🤝 I’m open to collaborate on **Full-Stack Web Development and Data Projects**
+
+📫 How to reach me: **[gaganpatidar9165@gmail.com](mailto:gaganpatidar9165@gmail.com)**
+
 
 
 ## 🌐 Socials:
