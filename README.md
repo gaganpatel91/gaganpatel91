@@ -69,37 +69,7 @@ I enjoy working with data, finding meaningful patterns, creating dashboards, and
 * Django
 * Tailwind CSS
 
-### 📊 Featured Data Projects
 
-#### 🛒 Amazon Sales Analysis Dashboard
-
-* Analyzed sales data to identify revenue and sales trends.
-* Performed data cleaning and transformation.
-* Created interactive dashboards and visualizations.
-* Analyzed KPIs to generate business insights.
-
-#### 👥 HR Attrition Analysis — Power BI
-
-* Analyzed employee attrition and workforce trends.
-* Created KPIs such as Total Attrition, Attrition Rate and Average Tenure.
-* Used Power BI and DAX for analysis.
-* Designed an interactive HR analytics dashboard.
-
-#### 🏦 Mitron Bank Data Analysis
-
-* Analyzed customer demographics and spending behavior.
-* Calculated customer, spending and income-related KPIs.
-* Created interactive Power BI visualizations.
-* Generated insights to support business decision-making.
-
-#### 🍔 Zomato SQL Data Analysis
-
-* Worked with relational databases using MySQL.
-* Used SQL queries for filtering, aggregation and analysis.
-* Practiced JOINs, GROUP BY, subqueries and window functions.
-* Analyzed restaurant, customer and food-ordering data.
-
-### 📚 Currently Learning
 
 ```text
 Python
