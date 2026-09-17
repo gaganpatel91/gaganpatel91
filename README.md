@@ -1,35 +1,212 @@
-# 💫 About Me:
+# 👋 Hi, I'm Gagan Patidar
 
-Hi 👋, I'm **Gagan Patidar**
+### 🚀 Data Science & Data Analytics Enthusiast | Python | SQL | Power BI | Excel | Full-Stack Developer
 
-👨‍💻 I’m a passionate **Full-Stack Web Developer & Data Enthusiast**
+I’m a passionate **Data Science & Data Analytics enthusiast** with a background in **Full-Stack Web Development**.
 
-📊 I’m deeply interested in **Data Analytics & Data Science**, and I enjoy turning raw data into meaningful insights using tools like **Excel, Power BI, Python, and SQL**
+I enjoy working with data, finding meaningful patterns, creating dashboards, and turning raw data into useful business insights.
 
-🔭 I’m currently learning and building projects using **React.js, Node.js, Next.js, Django, Python, MongoDB, and Express**, along with exploring **data visualization and machine learning concepts**
+### 🔎 What I’m Working On
 
-📈 I love working on **real-world data projects**, dashboards, and analytics solutions that help in better decision-making
+* 📊 Data Analysis and Business Intelligence
+* 🐍 Python for Data Science
+* 🧮 NumPy & Pandas for Data Manipulation
+* 📈 Data Visualization using Matplotlib & Seaborn
+* 🗄️ SQL & MySQL for Data Analysis
+* 📊 Power BI Dashboards & Data Visualization
+* 📗 Advanced Excel & MIS Reporting
+* 🤖 Exploring Machine Learning concepts
+* 🌐 Full-Stack Web Development with React.js & Django
 
-💼 Actively looking for **internship opportunities** in **Full-Stack Development / Data Analytics / Data Science**
+### 🛠️ Data Science & Analytics Skills
 
-🤝 I’m open to collaborate on **Full-Stack Web Development and Data Projects**
+**Programming & Data Analysis**
 
-📫 How to reach me: **[gaganpatidar9165@gmail.com](mailto:gaganpatidar9165@gmail.com)**
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* SQL
+* MySQL
 
+**Business Intelligence**
 
+* Power BI
+* DAX
+* Power Query
+* Advanced Excel
+* Pivot Tables
+* Excel Dashboards
+* MIS Reporting
+* KPI Analysis
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaganpatidar9165/)
- [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@GaganPatidar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaganpatidar9165@gmail.com) 
+**Data Science**
 
-# 💻 Tech Stack:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaganpatel91&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gaganpatel91&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Understanding
+* Statistical Analysis
+* Machine Learning Fundamentals
+
+**Databases**
+
+* MySQL
+* PostgreSQL
+* MongoDB
+
+### 💻 Development Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* Next.js
+* Django
+* Tailwind CSS
+
+### 📊 Featured Data Projects
+
+#### 🛒 Amazon Sales Analysis Dashboard
+
+* Analyzed sales data to identify revenue and sales trends.
+* Performed data cleaning and transformation.
+* Created interactive dashboards and visualizations.
+* Analyzed KPIs to generate business insights.
+
+#### 👥 HR Attrition Analysis — Power BI
+
+* Analyzed employee attrition and workforce trends.
+* Created KPIs such as Total Attrition, Attrition Rate and Average Tenure.
+* Used Power BI and DAX for analysis.
+* Designed an interactive HR analytics dashboard.
+
+#### 🏦 Mitron Bank Data Analysis
+
+* Analyzed customer demographics and spending behavior.
+* Calculated customer, spending and income-related KPIs.
+* Created interactive Power BI visualizations.
+* Generated insights to support business decision-making.
+
+#### 🍔 Zomato SQL Data Analysis
+
+* Worked with relational databases using MySQL.
+* Used SQL queries for filtering, aggregation and analysis.
+* Practiced JOINs, GROUP BY, subqueries and window functions.
+* Analyzed restaurant, customer and food-ordering data.
+
+### 📚 Currently Learning
+
+```text
+Python
+   ↓
+NumPy
+   ↓
+Pandas
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Matplotlib & Seaborn
+   ↓
+SQL
+   ↓
+Power BI
+   ↓
+Statistics
+   ↓
+Machine Learning
+```
+
+### 🌱 My Current Goal
+
+I’m currently focused on becoming **job-ready in Data Analytics and Data Science** by working on practical projects, improving my SQL and Python skills, and building real-world dashboards and analytical solutions.
+
+I’m also continuing to develop my **Full-Stack Development** skills and enjoy combining software development with data-driven solutions.
+
+### 🤝 Open to Collaboration
+
+I’m open to collaborating on:
+
+* 📊 Data Analytics Projects
+* 🐍 Python Data Projects
+* 📈 Power BI Dashboards
+* 🗄️ SQL Projects
+* 🤖 Machine Learning Projects
+* 🌐 Full-Stack Web Development Projects
+
+### 📫 Connect With Me
+
+* 📧 Email: **[gaganpatidar9165@gmail.com](mailto:gaganpatidar9165@gmail.com)**
+* 💼 LinkedIn: **[Gagan Patidar](https://www.linkedin.com/in/gaganpatidar9165/)**
+* 🐙 GitHub: **[gaganpatel91](https://github.com/gaganpatel91)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gaganpatel91&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧰 Tech Stack
+
+### 📊 Data Science & Analytics
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 📈 Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+### 🤖 Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge\&logo=express\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gaganpatel91\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=gaganpatel91\&theme=dark\&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+
+---
+
+# 📈 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=gaganpatel91\&icon=0\&color=0)
+
+---
+
+⭐ **Thanks for visiting my profile!**
