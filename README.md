@@ -1,105 +1,73 @@
 # 👋 Hi, I'm Gagan Patidar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%26+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Analyst+%7C+MIS+%7C+Full-Stack+Developer;Turning+Raw+Data+into+Meaningful+Insights;Building+Dashboards+%26+Data-Driven+Solutions" alt="Typing SVG">
-</p>
+### 🚀 Data Science & Data Analytics Enthusiast | Python | SQL | Power BI | Excel | Full-Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+I’m a passionate **Data Science & Data Analytics enthusiast** with a background in **Full-Stack Web Development**.
 
----
+I enjoy working with data, finding meaningful patterns, creating dashboards, and turning raw data into useful business insights.
 
-## 🚀 About Me
+### 🔎 What I’m Working On
 
-I'm a **Data Science & Data Analytics enthusiast** with a background in **Full-Stack Web Development**.
+* 📊 Data Analysis and Business Intelligence
+* 🐍 Python for Data Science
+* 🧮 NumPy & Pandas for Data Manipulation
+* 📈 Data Visualization using Matplotlib & Seaborn
+* 🗄️ SQL & MySQL for Data Analysis
+* 📊 Power BI Dashboards & Data Visualization
+* 📗 Advanced Excel & MIS Reporting
+* 🤖 Exploring Machine Learning concepts
+* 🌐 Full-Stack Web Development with React.js & Django
 
-I enjoy working with data, discovering meaningful patterns, building interactive dashboards, and transforming raw data into useful business insights.
+### 🛠️ Data Science & Analytics Skills
 
-I'm currently focused on becoming **job-ready in Data Analytics and Data Science** through practical projects, SQL, Python, Power BI, Excel, and real-world data analysis.
+**Programming & Data Analysis**
 
-```python
-gagan = {
-    "role": "Data Science & Data Analytics Enthusiast",
-    "background": "Full-Stack Web Development",
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* SQL
+* MySQL
 
-    "skills": [
-        "Python",
-        "SQL",
-        "Power BI",
-        "Advanced Excel",
-        "Pandas",
-        "NumPy",
-        "MySQL"
-    ],
+**Business Intelligence**
 
-    "interests": [
-        "Data Analytics",
-        "Data Visualization",
-        "Business Intelligence",
-        "Machine Learning",
-        "Full-Stack Development"
-    ],
+* Power BI
+* DAX
+* Power Query
+* Advanced Excel
+* Pivot Tables
+* Excel Dashboards
+* MIS Reporting
+* KPI Analysis
 
-    "currently_learning": [
-        "Statistics",
-        "Machine Learning",
-        "Advanced SQL",
-        "Data Analytics"
-    ]
-}
-```
+**Data Science**
 
----
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Understanding
+* Statistical Analysis
+* Machine Learning Fundamentals
 
-## 🔥 What I'm Working On
+**Databases**
 
-* 📊 **Data Analysis & Business Intelligence**
-* 🐍 **Python for Data Science**
-* 🧮 **NumPy & Pandas for Data Manipulation**
-* 📈 **Data Visualization with Matplotlib & Seaborn**
-* 🗄️ **SQL & MySQL for Data Analysis**
-* 📊 **Power BI Dashboards & Data Visualization**
-* 📗 **Advanced Excel & MIS Reporting**
-* 🤖 **Machine Learning Fundamentals**
-* 🌐 **Full-Stack Development with React.js & Django**
+* MySQL
+* PostgreSQL
+* MongoDB
 
----
+### 💻 Development Skills
 
-## 🛠️ Technical Skills
-
-### 🐍 Programming & Data Analysis
-
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `SQL`
-
-### 📊 Business Intelligence & MIS
-
-`Power BI` `DAX` `Power Query` `Advanced Excel`
-`Pivot Tables` `Excel Dashboards` `MIS Reporting` `KPI Analysis`
-
-### 🤖 Data Science
-
-`Data Cleaning` `Data Preprocessing` `EDA`
-`Data Visualization` `Statistical Analysis`
-`Machine Learning Fundamentals`
-
-### 🗄️ Databases
-
-`MySQL` `PostgreSQL` `MongoDB`
-
-### 💻 Full-Stack Development
-
-`HTML5` `CSS3` `JavaScript` `React.js`
-`Node.js` `Express.js` `Next.js`
-`Django` `Tailwind CSS`
-
-### 🧰 Tools & Platforms
-
-`Git` `GitHub` `Jira`
-
----
-
-## 📚 My Data Analytics Journey
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* Next.js
+* Django
+* Tailwind CSS
 
 ```text
 Python
@@ -114,80 +82,24 @@ Exploratory Data Analysis
    ↓
 Matplotlib & Seaborn
    ↓
-SQL & MySQL
+SQL
    ↓
 Power BI
-   ↓
-Advanced Excel & MIS
    ↓
 Statistics
    ↓
 Machine Learning
 ```
 
----
+### 🌱 My Current Goal
 
-## 📊 How I Work With Data
+I’m currently focused on becoming **job-ready in Data Analytics and Data Science** by working on practical projects, improving my SQL and Python skills, and building real-world dashboards and analytical solutions.
 
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Transformation
-   ↓
-Exploratory Data Analysis
-   ↓
-SQL / Python Analysis
-   ↓
-KPI & Business Analysis
-   ↓
-Power BI / Excel Dashboard
-   ↓
-Business Insights
-```
+I’m also continuing to develop my **Full-Stack Development** skills and enjoy combining software development with data-driven solutions.
 
----
+### 🤝 Open to Collaboration
 
-## 🌱 My Current Goal
-
-My current goal is to become **job-ready as a Data Analyst / Data Science professional** by building practical projects and continuously improving my skills in:
-
-* 📊 Data Analytics
-* 🐍 Python
-* 🗄️ SQL
-* 📈 Power BI
-* 📗 Advanced Excel & MIS
-* 📐 Statistics
-* 🤖 Machine Learning
-
-Alongside data, I'm also continuing to develop my **Full-Stack Development** skills and exploring ways to combine software development with data-driven solutions.
-
----
-
-## 📂 Featured Projects
-
-### 📊 Data Analytics & Business Intelligence
-
-* 🛒 **Amazon Sales Analysis Dashboard**
-* 👥 **HR Attrition Analysis — Power BI**
-* 🏦 **Mitron Bank Data Analysis**
-* 🛍️ **FMCG Analysis**
-* 🛒 **Walmart Sales Analysis**
-* 📈 **Sales & Business Performance Analysis**
-
-### 💻 Development Projects
-
-* 🌐 **Full-Stack Web Applications**
-* 🏠 **Room Booking Website**
-* 🧑‍💻 **Data-Driven Web Applications**
-* 📊 **Stock Market Dashboard**
-
----
-
-## 🤝 Open to Collaboration
-
-I'm open to collaborating on:
+I’m open to collaborating on:
 
 * 📊 Data Analytics Projects
 * 🐍 Python Data Projects
@@ -195,128 +107,92 @@ I'm open to collaborating on:
 * 🗄️ SQL Projects
 * 🤖 Machine Learning Projects
 * 🌐 Full-Stack Web Development Projects
-* 💡 Data-Driven Business Solutions
+
+### 📫 Connect With Me
+
+* 📧 Email: **[gaganpatidar9165@gmail.com](mailto:gaganpatidar9165@gmail.com)**
+* 💼 LinkedIn: **[Gagan Patidar](https://www.linkedin.com/in/gaganpatidar9165/)**
+* 🐙 GitHub: **[gaganpatel91](https://github.com/gaganpatel91)**
 
 ---
 
-## 💻 Developer Mode
+# 🧰 Tech Stack
 
-```javascript
-const developer = {
-    name: "Gagan Patidar",
+### 📊 Data Science & Analytics
 
-    focus: [
-        "Data Analytics",
-        "Data Science",
-        "Business Intelligence"
-    ],
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-    languages: [
-        "Python",
-        "SQL",
-        "JavaScript"
-    ],
+### 📈 Business Intelligence
 
-    analytics: [
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Seaborn"
-    ],
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
-    businessIntelligence: [
-        "Power BI",
-        "DAX",
-        "Power Query",
-        "Advanced Excel",
-        "MIS Reporting"
-    ],
+### 🤖 Machine Learning
 
-    databases: [
-        "MySQL",
-        "PostgreSQL",
-        "MongoDB"
-    ],
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-    development: [
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "Next.js",
-        "Django"
-    ],
+### 🌐 Web Development
 
-    currentlyLearning: [
-        "Statistics",
-        "Machine Learning",
-        "Advanced SQL",
-        "Advanced Data Analytics"
-    ]
-};
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge\&logo=express\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-while (developer.isLearning) {
-    developer.learn();
-    developer.buildProjects();
-    developer.analyzeData();
-    developer.improve();
-}
-```
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaganpatel91&show_icons=true&theme=radical&hide_border=true" alt="Gagan's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaganpatel91&show_icons=true&theme=radical&hide_border=false" alt="Gagan's GitHub Stats" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaganpatel91&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gaganpatel91&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 Profile Views
+# 🏆 Top Languages
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 📈 Profile Views
 
 <p align="center">
-
-<a href="mailto:gaganpatidar9165@gmail.com">
-  <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail">
-</a>
-
-<a href="https://github.com/gaganpatel91">
-  <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn">
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <b>✨ Turning Data into Insights | Building with Code | Learning Every Day 🚀</b>
+  ⭐ <b>Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  🚀 Turning Data into Insights | Building with Code | Learning Every Day
 </p>
-
