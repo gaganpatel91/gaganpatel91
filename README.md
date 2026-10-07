@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Gagan Patidar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+%26+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Analyst+%7C+MIS+%7C+Full-Stack+Developer;Turning+Raw+Data+into+Meaningful+Insights;Building+Dashboards+%26+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%26+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Analyst+%7C+MIS+%7C+Full-Stack+Developer;Turning+Raw+Data+into+Meaningful+Insights;Building+Dashboards+%26+Data-Driven+Solutions" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 ---
@@ -21,12 +21,8 @@ I'm currently focused on becoming **job-ready in Data Analytics and Data Science
 ```python
 gagan = {
     "role": "Data Science & Data Analytics Enthusiast",
-    "learning": [
-        "Data Analytics",
-        "Data Science",
-        "Machine Learning",
-        "Business Intelligence"
-    ],
+    "background": "Full-Stack Web Development",
+
     "skills": [
         "Python",
         "SQL",
@@ -36,13 +32,20 @@ gagan = {
         "NumPy",
         "MySQL"
     ],
-    "background": "Full-Stack Web Development",
+
     "interests": [
         "Data Analytics",
         "Data Visualization",
         "Business Intelligence",
         "Machine Learning",
         "Full-Stack Development"
+    ],
+
+    "currently_learning": [
+        "Statistics",
+        "Machine Learning",
+        "Advanced SQL",
+        "Data Analytics"
     ]
 }
 ```
@@ -124,7 +127,7 @@ Machine Learning
 
 ---
 
-## 📊 Areas I Work With
+## 📊 How I Work With Data
 
 ```text
 Raw Data
@@ -164,7 +167,7 @@ Alongside data, I'm also continuing to develop my **Full-Stack Development** ski
 
 ## 📂 Featured Projects
 
-### 📊 Data Analytics & BI
+### 📊 Data Analytics & Business Intelligence
 
 * 🛒 **Amazon Sales Analysis Dashboard**
 * 👥 **HR Attrition Analysis — Power BI**
@@ -173,12 +176,12 @@ Alongside data, I'm also continuing to develop my **Full-Stack Development** ski
 * 🛒 **Walmart Sales Analysis**
 * 📈 **Sales & Business Performance Analysis**
 
-### 💻 Development
+### 💻 Development Projects
 
-* 🌐 Full-Stack Web Applications
-* 🏠 Room Booking Website
-* 🧑‍💻 Data-driven Web Applications
-* 📊 Stock Market Dashboard
+* 🌐 **Full-Stack Web Applications**
+* 🏠 **Room Booking Website**
+* 🧑‍💻 **Data-Driven Web Applications**
+* 📊 **Stock Market Dashboard**
 
 ---
 
@@ -192,7 +195,7 @@ I'm open to collaborating on:
 * 🗄️ SQL Projects
 * 🤖 Machine Learning Projects
 * 🌐 Full-Stack Web Development Projects
-* 💡 Data-driven Business Solutions
+* 💡 Data-Driven Business Solutions
 
 ---
 
@@ -264,11 +267,11 @@ while (developer.isLearning) {
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaganpatel91&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaganpatel91&show_icons=true&theme=radical&hide_border=true" alt="Gagan's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 ---
@@ -276,7 +279,7 @@ while (developer.isLearning) {
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganpatel91&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gaganpatel91&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -284,7 +287,7 @@ while (developer.isLearning) {
 ## 📊 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views">
 </p>
 
 ---
@@ -292,23 +295,28 @@ while (developer.isLearning) {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:gaganpatidar9165@gmail.com">
-    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>
-  </a>
 
-  <a href="https://github.com/gaganpatel91">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
-  </a>
+<a href="mailto:gaganpatidar9165@gmail.com">
+  <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail">
+</a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
+<a href="https://github.com/gaganpatel91">
+  <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn">
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">✨ Turning Data into Insights | Building with Code | Learning Every Day 🚀</h3>
+<p align="center">
+  <b>✨ Turning Data into Insights | Building with Code | Learning Every Day 🚀</b>
+</p>
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+
