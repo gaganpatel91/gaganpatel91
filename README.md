@@ -69,6 +69,8 @@ I enjoy working with data, finding meaningful patterns, creating dashboards, and
 * Django
 * Tailwind CSS
 
+
+
 ```text
 Python
    ↓
@@ -159,40 +161,25 @@ I’m open to collaborating on:
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaganpatel91&show_icons=true&theme=radical&hide_border=false" alt="Gagan's GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=gaganpatel91\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
 
----
+<br/>
 
-# 🔥 GitHub Streak
+![](https://nirzak-streak-stats.vercel.app/?user=gaganpatel91\&theme=dark\&hide_border=false)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gaganpatel91&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+<br/>
 
----
-
-# 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganpatel91\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
 ---
 
 # 📈 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaganpatel91&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+![](https://visitcount.itsvg.in/api?id=gaganpatel91\&icon=0\&color=0)
 
 ---
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b>
-</p>
+⭐ **Thanks for visiting my profile!**
 
-<p align="center">
-  🚀 Turning Data into Insights | Building with Code | Learning Every Day
-</p>
+
+
